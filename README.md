@@ -1,5 +1,5 @@
 Nadeline A. Ricafranca
 
-Lab 1: Celsius to Fahrenheit Converter
+Lab 1: Celsius to Fahrenheit Converter 
 
 Screenshot of the Output: ![img.png](img.png)
